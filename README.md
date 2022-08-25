@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **williamxiewz/williamxiewz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hey Bro. 👋
 
-- 🎓 : [Zhejiang Normal University](https://www.bnu.edu.cn/)
+- 🎓 : [Zhejiang Normal University]()
 
 ----
 
