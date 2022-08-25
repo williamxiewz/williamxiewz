@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey Bro. 👋
+
+- 🎓 : [Zhejiang Normal University](https://www.bnu.edu.cn/)
+
+----
+
+### Products
+
+### Code Stats
+
+![williamxiewz's github stats](https://github-readme-stats.vercel.app/api?username=williamxiewz&show_icons=true&theme=dracula)
+
+### Trading Story
+
+
+---- 
+
+### Social
+
+
+
+----
+
+### Contact me
+
+williamxie@gmail.com
+
+
+
+
+
+Leave a message to me? --> https://github.com/williamxiewz/williamxiewz/issues
+
