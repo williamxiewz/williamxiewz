@@ -39,10 +39,3 @@ Here are some ideas to get you started:
 ### Contact me
 
 williamxiewz@gmail.com
-
-
-
-
-
-Leave a message to me? --> https://github.com/williamxiewz/williamxiewz/issues
-
