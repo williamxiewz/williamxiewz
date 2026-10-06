@@ -1,37 +1,24 @@
-### Hi, I'm William Xie 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:DB2777&height=200&section=header&text=William%20Xie&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Indie%20Developer%20·%20AI%20·%20Apple%20Platforms&descAlignY=58&descSize=18" />
+</p>
 
-独立开发者 · iOS / macOS 出身，现在主要折腾 AI 工具、量化交易和内容创作。
-Indie developer — Apple platforms by background, now building with AI, exploring quant trading, and writing about it.
+<p align="center">
+  <a href="https://williamxie.cn">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+with+AI+%F0%9F%A4%96;Swift+%2F+macOS+%2F+iOS+%F0%9F%8D%8E;Exploring+Quant+Trading+%F0%9F%93%88;Writing+at+williamxie.cn+%E2%9C%8D%EF%B8%8F" />
+  </a>
+</p>
 
-- 📝 博客 Blog：[williamxie.cn](https://williamxie.cn) — AI、开发教程、作品记录
-- 🔭 正在做：用 Notion + Next.js 搭内容站，配套视频教程
-- 🌱 在学：大模型原理与微调、AI Agent / MCP、量化策略回测
-- 🎓 [浙江师范大学 Zhejiang Normal University](https://www.zjnu.edu.cn)
+<p align="center">
+  <a href="https://williamxie.cn"><img src="https://img.shields.io/badge/Blog-williamxie.cn-A78BFA?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="mailto:williamxiewz@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-### 🛠 Projects
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=swift,apple,python,pytorch,ts,nextjs,react,nodejs,rust,docker&theme=dark" />
+</p>
 
-| Project | Description |
-| --- | --- |
-| [williamxie.cn](https://williamxie.cn) | 个人博客，基于 [NotionNext](https://github.com/williamxiewz/NotionNext) |
-| [Swift-DL](https://github.com/williamxiewz/Swift-DL) | macOS 上的 yt-dlp 图形客户端（Swift） |
-| [xcodesnippet](https://github.com/williamxiewz/xcodesnippet) | Xcode 代码片段管理工具 |
-| [learn-metal](https://github.com/williamxiewz/learn-metal) | Metal 图形编程学习笔记与示例 |
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=williamxiewz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=contribs" />
+</p>
 
-### 🧰 Tech Stack
-
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?logo=apple&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-
-### 📊 GitHub Stats
-
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamxiewz&show_icons=true&theme=dracula&hide_border=true)
-
-### 📫 Contact
-
-- Email: [williamxiewz@gmail.com](mailto:williamxiewz@gmail.com)
-- Blog: [williamxie.cn](https://williamxie.cn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,50:7C3AED,100:4F46E5&height=100&section=footer" />
