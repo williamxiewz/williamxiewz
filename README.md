@@ -39,15 +39,6 @@
   </tr>
 </table>
 
-<h3 align="center">📌 Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/williamxiewz/Swift-DL"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=williamxiewz&repo=Swift-DL&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&icon_color=3B82F6&text_color=94A3B8" /></a>
-  <a href="https://github.com/williamxiewz/learn-metal"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=williamxiewz&repo=learn-metal&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&icon_color=3B82F6&text_color=94A3B8" /></a>
-  <a href="https://github.com/williamxiewz/xcodesnippet"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=williamxiewz&repo=xcodesnippet&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&icon_color=3B82F6&text_color=94A3B8" /></a>
-  <a href="https://github.com/williamxiewz/homebrew-tap"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=williamxiewz&repo=homebrew-tap&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&icon_color=3B82F6&text_color=94A3B8" /></a>
-</p>
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=williamxiewz&show_icons=true&count_private=true&hide_rank=true&hide=contribs&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&icon_color=3B82F6&text_color=94A3B8" />
 </p>
